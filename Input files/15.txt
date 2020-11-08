@@ -1,0 +1,1322 @@
+WhatsApp Business Record Page 1
+Service WhatsApp
+Account
+Identifier
++917056820402
+Account Type WhatsAppUser
+Generated 2020-10-15 05:05:15 UTC
+Date Range 2020-10-14 05:00:00 UTC to 2020-10-15 05:00:00 UTC
+Message Log Message Timestamp 2020-10-14 15:19:15 UTC
+Message Id C41EC872D89D33324E475124AA0235CB
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 15:19:03 UTC
+Message Id 48AD7443025E58C832385E1599509169
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:200b:5ec2::58fc:46f6
+Sender Port 55980
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 15:19:18 UTC
+Message Id 762B8EFBA4F6A90749148C5ADCCB4235
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 15:18:53 UTC
+Message Id 095F08734642E3A1F5F8E20EADE7A21B
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 15:18:56 UTC
+Message Id C965035B03499F2EEDC4C446DAD562A7
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:200b:5ec2::58fc:46f6
+                             1 / 26
+WhatsApp Business Record Page 2
+Sender Port
+55980
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 15:18:47 UTC
+Message Id 5054B82FF108AA6CEEDBC0D46C5C0AC1
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 15:19:22 UTC
+Message Id 9FEE16818EFCF3D8B1FD169AA621F04C
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 14:06:10 UTC
+Message Id 8E2FCBBFE088640F381F7ECD5905473D
+Sender 917056820402
+Recipients 918607690566
+Sender Ip 2402:8100:2191:d9e2::e6a:a48b
+Sender Port 48398
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 21:31:05 UTC
+Message Id 0852A5D7783376F95A37C755F9D33144
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:1049:bde8:1211:6305:35d4:eb08
+Sender Port 40400
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 15:19:41 UTC
+Message Id 006CECE08403FE056504092C698A7E74
+Sender 917056820402
+                             2 / 26
+WhatsApp Business Record Page 3
+Recipients
+917015922022, 919813943821, 919466667536, 919053114917,
+919643627011, 919416442193, 918059133020, 919813344370,
+919813071652, 918607101829, 919728610011, 918685879549,
+917027181836, 919041311817, 919991991972, 919728693069,
+919812235657, 917042921001, 918860873471, 918059460234,
+918814905745, 918199970971, 919213404663, 918285966316,
+919896418489, 918059501536, 919671147414, 919992784998,
+918010419168, 918168154807, 919728002037, 918053465660,
+919992684396, 918222813029, 919812583322, 919992999281,
+918053003000, 919992486110, 919310677229, 919050730006,
+919899137886, 919306298764, 919813399747, 918059495246,
+918685004842, 919416512234, 919728012934, 919050903198,
+918059355496, 919812946100, 919053752148, 919873418802,
+919812714590, 919896566780, 918814986153, 919811877550,
+918398049798, 919992395984, 919053368719, 919992175056,
+917404106779, 918059575938, 918570063902, 919813479515,
+15094983237, 917404209170, 919991946168, 918685837265,
+918221068703, 919992818788, 919540594342, 919930203302,
+919991003411, 918059218662, 918059242456, 919416529916,
+918529711009, 918920905841, 919992317156, 919541164514,
+919991554673, 919053605073, 919992867839, 919997734908,
+919992308207, 918607449660, 918930637763, 919518890451,
+918930495674, 919812184460, 918607690566, 919050898887,
+918708957303, 917683071505
+Group Id 917683071505-1600142518
+Sender Ip 2402:8100:200b:5ec2::58fc:46f6
+Sender Port 55980
+Sender Device android
+Type text
+Message Style group
+Message Size 155
+Message Timestamp 2020-10-14 21:30:55 UTC
+Message Id 9CB16844FD60E280F093D9ED99102123
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:1049:bde8:1211:6305:35d4:eb08
+Sender Port 40400
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 21:31:06 UTC
+Message Id EF5FB762D95843F1FBD1DCA77E8D5AD8
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:1049:bde8:1211:6305:35d4:eb08
+Sender Port 40400
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+                             3 / 26
+WhatsApp Business Record Page 4
+Message
+Timestamp 2020-10-14 15:16:28 UTC
+Message Id 45A5A0F4669C8DA5CAE0548FD407022C
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 106.66.6.38
+Sender Port 64864
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 21:31:32 UTC
+Message Id 30AAC38C489B7C16A4A4FDC82DD3BB2D
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:1049:bde8:1211:6305:35d4:eb08
+Sender Port 40400
+Sender Device android
+Type text
+Message Style individual
+Message Size 130
+Message Timestamp 2020-10-14 23:31:30 UTC
+Message Id DE5C1E3D39291757AAD6725BB0263D53
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:105a:6d73:88f:63:4d7f:9ca
+Sender Port 56786
+Sender Device android
+Type text
+Message Style individual
+Message Size 98
+Message Timestamp 2020-10-14 15:19:19 UTC
+Message Id 3A66A7DA7710A5BA13181D7BF5635109
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:05:11 UTC
+Message Id FFCCF28C314F4ED95103A6B50011032F
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:105a:6d73:88f:63:4d7f:9ca
+Sender Port 35598
+Sender Device android
+Type ptt
+Message Style individual
+                             4 / 26
+WhatsApp Business Record Page 5
+Message Size
+403
+Message Timestamp 2020-10-14 15:18:49 UTC
+Message Id C464D3D5D3AAA0AD8096D1C04BF79683
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 23:31:33 UTC
+Message Id DA172990778FC3F175DFB3FCDFA34EA6
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:105a:6d73:88f:63:4d7f:9ca
+Sender Port 56786
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 15:19:00 UTC
+Message Id 80DF1D94FFB902F8E379D139BA96655B
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:32:24 UTC
+Message Id CFD5A95DC6F3993AD33ADB13D8507325
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:05:25 UTC
+Message Id 6CD743A053949782755706FD4967001C
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:105a:6d73:88f:63:4d7f:9ca
+Sender Port 35598
+Sender Device android
+                             5 / 26
+WhatsApp Business Record Page 6
+Type
+ptt
+Message Style individual
+Message Size 403
+Message Timestamp 2020-10-14 15:18:57 UTC
+Message Id 6C70CCE2E6E9CC1D452D1B7244A51296
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:06:31 UTC
+Message Id B33AB8CA9C66E7E0993423F731B0AC27
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:105a:6d73:88f:63:4d7f:9ca
+Sender Port 35598
+Sender Device android
+Type ptt
+Message Style individual
+Message Size 403
+Message Timestamp 2020-10-15 00:32:45 UTC
+Message Id C52A4ADA28C5E11C4DF4F0FD431F7A64
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:32:49 UTC
+Message Id 8415A925BCF18C067D124F04A0101752
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:32:34 UTC
+Message Id 644882086043C3E449194168F074891C
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+                             6 / 26
+WhatsApp Business Record Page 7
+Sender Port
+34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:32:55 UTC
+Message Id 6B6331C41C3DCBCCDC9753D3495E2FE9
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:32:32 UTC
+Message Id 9217C0C96869B77C06803A56C185245E
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 15:19:20 UTC
+Message Id A911AE1529112EE63673AD848C2DED89
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:33:01 UTC
+Message Id EA701E1D9C4164E249819BB577672A0A
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:33:01 UTC
+Message Id 0655A435A0B69C7C90E516558C8A5C4F
+Sender 918059404503
+                             7 / 26
+WhatsApp Business Record Page 8
+Recipients
+917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 98
+Message Timestamp 2020-10-15 00:33:20 UTC
+Message Id 6BC8E10B5C699B0F1CCD5EB5B9EE7B40
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:33:06 UTC
+Message Id B74A2B6DE1924912E9800043BF4A1BBA
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:33:12 UTC
+Message Id A8E2E84725883E21A4869A615717783F
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:33:17 UTC
+Message Id 9FB0471C4D26C507994AA6C0D050D43A
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:33:52 UTC
+                             8 / 26
+WhatsApp Business Record Page 9
+Message Id
+5B2C1290E80B179011349EB4C60B6457
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 98
+Message Timestamp 2020-10-15 00:33:29 UTC
+Message Id 9AB74F0A3B734CEDC849BF5F8360BE8D
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:33:30 UTC
+Message Id 87E5CBE35973D157E5C7F132F74EE6BC
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:33:43 UTC
+Message Id 8F12D35190E26C66BEFCD2994D7B2C1B
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:34:28 UTC
+Message Id 1EAF3B68D2270C362F59093D63EA6A1B
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+                             9 / 26
+WhatsApp Business Record Page 10
+Message
+Timestamp 2020-10-15 00:32:56 UTC
+Message Id 4A8A02849E63B5CDFED9586D8D489806
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:34:48 UTC
+Message Id 0FF5BC0DB59DE370F04AEE43DE56524B
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:35:02 UTC
+Message Id 5F74428CEF6AD2482367CF133362D693
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:33:58 UTC
+Message Id AE2A6FC09E20494E5D964858A6F3E6E2
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:33:59 UTC
+Message Id 301F8BCC51AC5CF03FA8F6B58DFD1EE9
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+                            10 / 26
+WhatsApp Business Record Page 11
+Message Size
+82
+Message Timestamp 2020-10-15 00:34:53 UTC
+Message Id 9E30EDC58C6458AF26E6FCD4FFC7BE20
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:35:00 UTC
+Message Id 886F2AFBC11E866D11B3A06C5F263E8C
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:35:04 UTC
+Message Id 236FAFA624F237442B2635EF7C7C1843
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:35:21 UTC
+Message Id B076EEF597FA23904C84E5638247878D
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:36:08 UTC
+Message Id D9B99EA87D576835F9C48098F2AABFE5
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+                            11 / 26
+WhatsApp Business Record Page 12
+Type
+text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:34:06 UTC
+Message Id 93AD4E913721404A592C099812AFCB66
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:36:12 UTC
+Message Id 17990E7C46434682243BFF47F276B801
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:34:05 UTC
+Message Id A7B92FCD811C5C0FF49630A42B11B8EF
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:34:19 UTC
+Message Id E89EDCB0C917AA17BAAB75795A0E57BC
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:35:50 UTC
+Message Id A1BD2F7A3AA53AC3F7D3CF3DA54C4B7D
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+                            12 / 26
+WhatsApp Business Record Page 13
+Sender Port
+59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:36:01 UTC
+Message Id AC0A3961E831AF545F4AEA1FF9C156BE
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:37:31 UTC
+Message Id 536B66775210E81B0BDCC5D9CC08C39F
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:37:42 UTC
+Message Id BD7E9DBA4AE73A3CFA5CB3D576D7C7D2
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:36:40 UTC
+Message Id 937014B7AB9CA389AC6A3AD4F87FFD19
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:35:39 UTC
+Message Id 8BC75B8B73F690ADEECC9D6F3E2B15C0
+Sender 917056820402
+                            13 / 26
+WhatsApp Business Record Page 14
+Recipients
+918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:38:11 UTC
+Message Id 159A84E0ADBAAE3C1D30C3F0FD8F41B0
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 14:06:54 UTC
+Message Id 0A41FCE0D5C5E9060109DA1C9F5FE938
+Sender 917056820402
+Recipients 918607690566
+Sender Ip 2402:8100:2191:d9e2::e6a:a48b
+Sender Port 48436
+Sender Device android
+Type text
+Message Style individual
+Message Size 114
+Message Timestamp 2020-10-14 11:27:17 UTC
+Message Id 43D8BA810D05CD3426AEB8C7048CA3D9
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2194:c503::dda:43e0
+Sender Port 37516
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 15:18:19 UTC
+Message Id 92C347C3304EE2D564E9557F09E6ACDE
+Sender 917056820402
+Recipients 917015922022, 919813943821, 919466667536, 919053114917,
+919643627011, 919416442193, 918059133020, 919813344370,
+919813071652, 918607101829, 919728610011, 918685879549,
+917027181836, 919041311817, 919991991972, 919728693069,
+919812235657, 917042921001, 918860873471, 918059460234,
+918814905745, 918199970971, 919213404663, 918285966316,
+919896418489, 918059501536, 919671147414, 919992784998,
+918010419168, 918168154807, 919728002037, 918053465660,
+919992684396, 918222813029, 919812583322, 919992999281,
+                            14 / 26
+WhatsApp Business Record Page 15
+918053003000, 919992486110, 919310677229, 919050730006,
+919899137886, 919306298764, 919813399747, 918059495246,
+918685004842, 919416512234, 919728012934, 919050903198,
+918059355496, 919812946100, 919053752148, 919873418802,
+919812714590, 919896566780, 918814986153, 919811877550,
+918398049798, 919992395984, 919053368719, 919992175056,
+917404106779, 918059575938, 918570063902, 919813479515,
+15094983237, 917404209170, 919991946168, 918685837265,
+918221068703, 919992818788, 919540594342, 919930203302,
+919991003411, 918059218662, 918059242456, 919416529916,
+918529711009, 918920905841, 919992317156, 919541164514,
+919991554673, 919053605073, 919992867839, 919997734908,
+919992308207, 918607449660, 918930637763, 919518890451,
+918930495674, 919812184460, 918607690566, 919050898887,
+918708957303, 917683071505
+Group Id 917683071505-1600142518
+Sender Ip 2402:8100:200b:5ec2::58fc:46f6
+Sender Port 55980
+Sender Device android
+Type text
+Message Style group
+Message Size 508
+Message Timestamp 2020-10-14 15:18:48 UTC
+Message Id 6B13CA9684C2AC4A04BA804CC8746580
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:2197:d5aa::df4:8e51
+Sender Port 48182
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 15:19:08 UTC
+Message Id 1141969B70AA00ECE09B2215C2A06241
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:200b:5ec2::58fc:46f6
+Sender Port 55980
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 15:16:44 UTC
+Message Id E90BC4B78DEFB28DB4250F5C8C105C13
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 106.66.6.38
+Sender Port 64864
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+                            15 / 26
+WhatsApp Business Record Page 16
+Message
+Timestamp 2020-10-14 14:06:53 UTC
+Message Id 7A171902A515716A02FED2DF35907A8A
+Sender 917056820402
+Recipients 918607690566
+Sender Ip 2402:8100:2191:d9e2::e6a:a48b
+Sender Port 48436
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 14:47:51 UTC
+Message Id D9A34FFB4E74C405BC99F372857DBB24
+Sender 917027021306
+Recipients 917056820402
+Sender Ip 2409:4051:17:3a02:648a:e47f:d4a0:928f
+Sender Port 43254
+Sender Device smba
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 14:27:11 UTC
+Message Id 0FBA3747ECA955123E3A526C490CF424
+Sender 918607690566
+Recipients 917056820402
+Sender Ip 2402:8100:219b:ace3:d9d1:7f79:fe3e:9ef3
+Sender Port 39716
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 09:05:29 UTC
+Message Id 7D7327329004EB1845BE289D3FAFEBF4
+Sender 918607690566
+Recipients 917056820402
+Sender Ip 2402:8100:2191:8eaa:e773:3126:6c7e:3d01
+Sender Port 37073
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-14 14:06:03 UTC
+Message Id CEDB3BE39A2E35423CA319D64FB0E3CE
+Sender 917056820402
+Recipients 918607690566
+Sender Ip 2402:8100:2191:d9e2::e6a:a48b
+Sender Port 48398
+Sender Device android
+Type text
+Message Style individual
+                            16 / 26
+WhatsApp Business Record Page 17
+Message Size
+66
+Message Timestamp 2020-10-14 10:54:06 UTC
+Message Id E6DE7DA8BDB5860ECB3FF4B96A292A2E
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2199:80d4::dd6:989
+Sender Port 45910
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 10:54:06 UTC
+Message Id E47DC722F390F286872FDCB6119EDADE
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2199:80d4::dd6:989
+Sender Port 45910
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-14 09:05:29 UTC
+Message Id E0D2F5B779642FE8294A1710AA43923B
+Sender 918607690566
+Recipients 917056820402
+Sender Ip 2402:8100:2191:8eaa:e773:3126:6c7e:3d01
+Sender Port 37073
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:36:32 UTC
+Message Id 472311ED90BB506DBED59554849853CA
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:36:36 UTC
+Message Id 726614261B0B92ADB0089584972F6BE3
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+                            17 / 26
+WhatsApp Business Record Page 18
+Type
+text
+Message Style individual
+Message Size 114
+Message Timestamp 2020-10-15 00:36:54 UTC
+Message Id F2C300B1C0BDC78A8F567A4C2BBEE1FE
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 114
+Message Timestamp 2020-10-15 00:37:04 UTC
+Message Id 32A4747D3D55CFABCB948594AA3A627B
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:37:19 UTC
+Message Id 27660A4E13C343FDCC640604EE1B27D5
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:36:54 UTC
+Message Id F4254480EE51FDFE1878D914BE8D33F3
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:37:37 UTC
+Message Id 3D911A19F85211799EF204A9639CE833
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+                            18 / 26
+WhatsApp Business Record Page 19
+Sender Port
+59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:41:39 UTC
+Message Id A141D620479607FA1F64FF999BA9BAE6
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:41:25 UTC
+Message Id 932681825F06B0CAE4BB4E53121788A5
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:48:27 UTC
+Message Id 2D4940DA6BE58843E8AFEA51C9D94269
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:47:29 UTC
+Message Id 944E954FBE7DFC64E95776BFFBDEFBAF
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:225c:4f02:3a5f:551d:1f3e:f9d4
+Sender Port 59606
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:48:33 UTC
+Message Id 0877ABAC9F661873B4089583A7E13A3D
+Sender 917056820402
+                            19 / 26
+WhatsApp Business Record Page 20
+Recipients
+917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:48:50 UTC
+Message Id 143E8135C41C14AADDD2F34CEF9456F2
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:225c:4f02:3a5f:551d:1f3e:f9d4
+Sender Port 59606
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:48:51 UTC
+Message Id 614E9F6C3927E627023DF2CB8ED5173D
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:225c:4f02:3a5f:551d:1f3e:f9d4
+Sender Port 59606
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:38:15 UTC
+Message Id 348EFBF56FC6A99DC190D9B3D1D36FD7
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:37:40 UTC
+Message Id EC008738C5A43ADA6B775665436CEB80
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:3a80:95c:f11d:0:64:76e2:2001
+Sender Port 59156
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:48:57 UTC
+                            20 / 26
+WhatsApp Business Record Page 21
+Message Id
+DE145B54CF7A6C4C7F97887A62A18F9A
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:225c:4f02:3a5f:551d:1f3e:f9d4
+Sender Port 59606
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:37:07 UTC
+Message Id 59AFFE373245668BE9C0E4F2A0305E47
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:49:49 UTC
+Message Id E941F28AC6B5921B96729A9DA34CB125
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:49:03 UTC
+Message Id 2590865CAA67CC03C313461AB83828B3
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:55:33 UTC
+Message Id F1C6860C4ACA3FE2AF5D87472091674B
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+                            21 / 26
+WhatsApp Business Record Page 22
+Message
+Timestamp 2020-10-15 00:55:46 UTC
+Message Id B5F051C40424ECE40C99FDFD6FBC8B85
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:41:30 UTC
+Message Id AF163D382B1F28C8966418C9A831B554
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34382
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:55:31 UTC
+Message Id 71E0A6E29A3677BC25409684DB789364
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:56:31 UTC
+Message Id 297073C60E2672FB84A70CB387139000
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:225c:4f02:3a5f:551d:1f3e:f9d4
+Sender Port 59606
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:58:28 UTC
+Message Id 00D281658A099D2257382C59B29AE787
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+                            22 / 26
+WhatsApp Business Record Page 23
+Message Size
+82
+Message Timestamp 2020-10-15 00:56:39 UTC
+Message Id 2B3BFF6F352B3A8E2836B0396521CC20
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:225c:4f02:3a5f:551d:1f3e:f9d4
+Sender Port 59606
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:56:36 UTC
+Message Id 791E2636EE088FC928BE2681894501D3
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:225c:4f02:3a5f:551d:1f3e:f9d4
+Sender Port 59606
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 01:08:46 UTC
+Message Id 5796119D1E724270E5F3D5D2AB6B369D
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 106.66.42.89
+Sender Port 62844
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 01:04:43 UTC
+Message Id A3CF437FCD7F6E2B2F32C0B62D3D44F5
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 106.66.42.89
+Sender Port 62844
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 01:08:46 UTC
+Message Id 73798F7817EF43F3A378C239101BFE63
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 106.66.42.89
+Sender Port 62844
+Sender Device android
+                            23 / 26
+WhatsApp Business Record Page 24
+Type
+text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 01:04:43 UTC
+Message Id BCBAF9E5984EB614FF8339AE580DFB12
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 106.66.42.89
+Sender Port 62844
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 01:03:41 UTC
+Message Id 73BD572BAB5C88222A267AF951B992B5
+Sender 917056820402
+Recipients 917056992704
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 01:02:32 UTC
+Message Id F4BE6BE6F91054AF85E7D0932ACAD27E
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 01:02:41 UTC
+Message Id 50D548AE98ADFA388FE85205C889B0BA
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 98
+Message Timestamp 2020-10-15 01:02:23 UTC
+Message Id DEE28A707F276322AD1BB398B720B08C
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+                            24 / 26
+WhatsApp Business Record Page 25
+Sender Port
+34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 01:02:21 UTC
+Message Id 2C389EF8F7267E8A104A0235C0250B6C
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 01:02:26 UTC
+Message Id BDFBBD746AF58463D3D4E3C81B7E1AD1
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:58:43 UTC
+Message Id 694EDC078084EAB5926CBA6AB47BB47F
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 98
+Message Timestamp 2020-10-15 00:59:53 UTC
+Message Id E7E5A12B0B4B9AD07FF408F316D27AC3
+Sender 918059404503
+Recipients 917056820402
+Sender Ip 2402:8100:224e:864d:7407:7829:c03f:8ada
+Sender Port 57022
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:59:54 UTC
+Message Id 1FC82EF717B471C3701E513288EE754C
+Sender 918059404503
+                            25 / 26
+WhatsApp Business Record Page 26
+Recipients
+917056820402
+Sender Ip 2402:8100:224e:864d:7407:7829:c03f:8ada
+Sender Port 57022
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-15 00:58:32 UTC
+Message Id 33A646B9C07AAA89E93111F5BC881773
+Sender 917056820402
+Recipients 918059404503
+Sender Ip 2402:8100:2258:f5ad:3341:a611:a3e9:1642
+Sender Port 34738
+Sender Device android
+Type text
+Message Style individual
+Message Size 66
+Message Timestamp 2020-10-15 00:56:33 UTC
+Message Id B324D8DC81D8BDACFCD66DA788BC5679
+Sender 917056992704
+Recipients 917056820402
+Sender Ip 2402:8100:225c:4f02:3a5f:551d:1f3e:f9d4
+Sender Port 59606
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Powered by TCPDF (www.tcpdf.org)
+                            26 / 26

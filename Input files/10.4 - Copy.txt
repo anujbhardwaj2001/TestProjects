@@ -1,0 +1,540 @@
+WhatsApp Business Record Page 1
+Service WhatsApp
+Account
+Identifier
++919212222322
+Account Type WhatsAppUser
+Generated 2020-10-04 04:06:08 UTC
+Date Range 2020-10-03 04:00:00 UTC to 2020-10-04 04:00:00 UTC
+Message Log Message Timestamp 2020-10-03 10:10:43 UTC
+Message Id 9812475C6D0484EB9589F5C59D6C4514
+Sender 919971849971
+Recipients 919212222322
+Sender Ip 110.235.216.66
+Sender Port 48214
+Sender Device android
+Type text
+Message Style individual
+Message Size 152
+Message Timestamp 2020-10-03 09:07:55 UTC
+Message Id 47D911414E122516FA2B1B1903FF93FD
+Sender 918851663797
+Recipients 919212222322
+Sender Ip 103.211.13.31
+Sender Port 43498
+Sender Device android
+Type video
+Message Style individual
+Message Size 3171
+Message Timestamp 2020-10-03 10:10:40 UTC
+Message Id BE620991D2A6127C816E0D8899B401CF
+Sender 919971849971
+Recipients 919212222322
+Sender Ip 110.235.216.66
+Sender Port 48214
+Sender Device android
+Type text
+Message Style individual
+Message Size 168
+Message Timestamp 2020-10-03 12:18:37 UTC
+Message Id 4836AF9E26DF10FE696D2661C07A7BE4
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 99
+Message Timestamp 2020-10-03 12:18:41 UTC
+Message Id 6BE9274FD59E575E179728A3A17A9E05
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+                             1 / 11
+WhatsApp Business Record Page 2
+Sender Port
+44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 12:17:52 UTC
+Message Id 438B1F6C612836CEB8720AAB8D4F85D3
+Sender 919212222322
+Recipients 918851663797
+Sender Ip 47.31.197.225
+Sender Port 44488
+Sender Device android
+Type text
+Message Style individual
+Message Size 227
+Message Timestamp 2020-10-03 12:19:24 UTC
+Message Id D58F2C2115EF6DE1E6F0288E03D450CA
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 115
+Message Timestamp 2020-10-03 12:20:25 UTC
+Message Id 8DAAB2221B5FEC696D6D5629AF9D0376
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 131
+Message Timestamp 2020-10-03 12:18:24 UTC
+Message Id 0CDA0D722C153C6CD52AF1BB04EC790A
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 12:12:46 UTC
+Message Id D373E0DDDDA3044D7F88278CD00A17EB
+Sender 919868060086
+                             2 / 11
+WhatsApp Business Record Page 3
+Recipients
+919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 14:45:25 UTC
+Message Id AD710DD15C02F65E5F93087BCF60E3E7
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 47493
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 12:19:37 UTC
+Message Id D9BC89FCB64F528AABF299EC611DA659
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 99
+Message Timestamp 2020-10-03 12:22:06 UTC
+Message Id 5BFF5919BE5102C24C12279F7DFB79C5
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 42661
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 12:20:00 UTC
+Message Id 0123F5BE9725F29ED05F347ED2D49144
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 115
+Message Timestamp 2020-10-03 12:18:17 UTC
+                             3 / 11
+WhatsApp Business Record Page 4
+Message Id
+85E50AFF354B2CCD0A2586CDA8C2968F
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 12:18:22 UTC
+Message Id 22060D2D0581C3159C35F1F74C53268B
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 12:22:06 UTC
+Message Id 96B9F8B9A1FD2FE346911E9C0AD14AFA
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 42661
+Sender Device android
+Type text
+Message Style individual
+Message Size 163
+Message Timestamp 2020-10-03 16:09:27 UTC
+Message Id B09133467ADED187F694ED5A249D8B54
+Sender 919971997176
+Recipients 919212222322
+Sender Ip 2405:204:3406:91f4:2f01:d4b8:cf22:e232
+Sender Port 42720
+Sender Device android
+Type text
+Message Style individual
+Message Size 98
+Message Timestamp 2020-10-03 12:31:46 UTC
+Message Id C1CE41A86CE4BEA90F7817A087E9DED2
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 42661
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+                             4 / 11
+WhatsApp Business Record Page 5
+Message
+Timestamp 2020-10-03 12:20:51 UTC
+Message Id 5AE1C9B524E17B3FE88BBE4C1F81DA45
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 99
+Message Timestamp 2020-10-03 13:09:31 UTC
+Message Id 5AA8C3BEBA330B938E47E200379F6524
+Sender 918907277777
+Recipients 919212222322
+Sender Ip 2402:3a80:1813:ef11:5661:252c:9d01:cd00
+Sender Port 41272
+Sender Device android
+Type video
+Message Style individual
+Message Size 1098
+Message Timestamp 2020-10-03 16:38:43 UTC
+Message Id DA4C3A8AB8542E6626D81CB98DEDE19E
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 14:45:29 UTC
+Message Id B2168E45F92AC4648E8997C93F57FA9A
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 47493
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 14:45:42 UTC
+Message Id 69C848A5AE43D4AA00435770DEED1536
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 47493
+Sender Device android
+Type text
+Message Style individual
+                             5 / 11
+WhatsApp Business Record Page 6
+Message Size
+83
+Message Timestamp 2020-10-03 12:31:39 UTC
+Message Id D9FB2D4CEA0146ACE6022FC8BDDB1749
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 42661
+Sender Device android
+Type text
+Message Style individual
+Message Size 115
+Message Timestamp 2020-10-03 12:19:40 UTC
+Message Id 73E77E5FACF382B75CE2D35C49DDCB15
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 12:22:05 UTC
+Message Id 4FA3A10EFB61655D3E173F2ACB6D27E2
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 42661
+Sender Device android
+Type text
+Message Style individual
+Message Size 115
+Message Timestamp 2020-10-03 12:19:44 UTC
+Message Id 7DC37E5C3C96D4BB6B4856D7E37EA741
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 44671
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 17:13:06 UTC
+Message Id B359F9B1AD10EAA976F95335A88D1312
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+                             6 / 11
+WhatsApp Business Record Page 7
+Type
+text
+Message Style individual
+Message Size 67
+Message Timestamp 2020-10-03 12:22:00 UTC
+Message Id F2727DD362970E36FE347901CF63FA3C
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 42661
+Sender Device android
+Type text
+Message Style individual
+Message Size 99
+Message Timestamp 2020-10-03 16:09:17 UTC
+Message Id 5F65AA90D3BDA4561186B6F103B4CACF
+Sender 919971997176
+Recipients 919212222322
+Sender Ip 2405:204:3406:91f4:2f01:d4b8:cf22:e232
+Sender Port 42720
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-03 14:45:35 UTC
+Message Id 402C1DCC73FD488743ED1915CB14A8B7
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 47493
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 16:09:33 UTC
+Message Id EDD8C5BEF3B26C189AFC4BE4B7489CD7
+Sender 919971997176
+Recipients 919212222322
+Sender Ip 2405:204:3406:91f4:2f01:d4b8:cf22:e232
+Sender Port 42720
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-03 16:33:53 UTC
+Message Id DB2FFFCE2D08B5A41ECC7EB6E044E62E
+Sender 919212222322
+Recipients 919911167675
+Sender Ip 2409:4050:2e92:c0ba:c840:e611:c7d:ee99
+                             7 / 11
+WhatsApp Business Record Page 8
+Sender Port
+44684
+Sender Device android
+Type text
+Message Style individual
+Message Size 82
+Message Timestamp 2020-10-03 16:38:46 UTC
+Message Id 117C16A2E340385FDC9E84E128065B9F
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 17:13:17 UTC
+Message Id AA9BFC804EE5053E040C8C720A27B24D
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 99
+Message Timestamp 2020-10-03 17:12:19 UTC
+Message Id F3146CE2D477AB7C07803A45EE2D3B9C
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 7236
+Message Timestamp 2020-10-03 16:10:36 UTC
+Message Id A72BFC7D252D9B33F54B23494C49B9F7
+Sender 919971997176
+Recipients 919212222322
+Sender Ip 2405:204:3406:91f4:2f01:d4b8:cf22:e232
+Sender Port 39820
+Sender Device android
+Type text
+Message Style individual
+Message Size 98
+Message Timestamp 2020-10-03 17:12:32 UTC
+Message Id 08157BC94FDD5CC8EAE074B2ED276626
+Sender 919868060086
+                             8 / 11
+WhatsApp Business Record Page 9
+Recipients
+919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 5492
+Message Timestamp 2020-10-03 16:38:54 UTC
+Message Id 4F7E905D66D2A0F68B9594AEBF104602
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 67
+Message Timestamp 2020-10-03 17:13:51 UTC
+Message Id D322A72D011D66269B2BEA4406008B30
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 115
+Message Timestamp 2020-10-03 17:13:09 UTC
+Message Id 6EAA9D3BF4323CB7070AE26C2253CA18
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 67
+Message Timestamp 2020-10-03 17:13:28 UTC
+Message Id C2D3272D923C25E8703CDA717EB45141
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 99
+Message Timestamp 2020-10-03 17:13:33 UTC
+                             9 / 11
+WhatsApp Business Record Page 10
+Message Id
+CE773C6ADEFEE0DE836A1F9FF13429CD
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-03 17:19:59 UTC
+Message Id 4F7218212D93BB64BAE07852F737278B
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 99
+Message Timestamp 2020-10-03 17:20:30 UTC
+Message Id 50344B15B625F1FD3796969E3DC6B5B0
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 99
+Message Timestamp 2020-10-03 17:19:26 UTC
+Message Id D88AA7AA7EB6E7A01A9BF1E81FB7EDB8
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-04 02:09:53 UTC
+Message Id CB5A2D7BF98187928C80F535746F643C
+Sender 918907277777
+Recipients 919212222322
+Sender Ip 106.67.43.104
+Sender Port 52672
+Sender Device android
+Type image
+Message Style individual
+Message Size 1146
+                            10 / 11
+WhatsApp Business Record Page 11
+Message
+Timestamp 2020-10-03 17:20:06 UTC
+Message Id A2B783DE8CA1A3B9D0F20B985C9396C9
+Sender 919868060086
+Recipients 919212222322
+Sender Ip 202.160.133.6
+Sender Port 48233
+Sender Device android
+Type text
+Message Style individual
+Message Size 83
+Message Timestamp 2020-10-04 02:09:52 UTC
+Message Id 0652DDED0E80AE7882ABC22B2D1B6DC2
+Sender 918907277777
+Recipients 919212222322
+Sender Ip 106.67.43.104
+Sender Port 52672
+Sender Device android
+Type image
+Message Style individual
+Message Size 1066
+Powered by TCPDF (www.tcpdf.org)
+                            11 / 11
